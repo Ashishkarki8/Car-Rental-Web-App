@@ -1,0 +1,61 @@
+﻿@using VehicleRentalSystem.Presentation.Areas.Admin.ViewModels;
+
+@model List<VehicleViewModel>
+
+@{
+    ViewData["Title"] = "Vehicle";
+}
+
+<partial name="_Notification" />
+
+<div class="container-fluid" style=" margin-top:13vh;">
+    <div class="row mb-3">
+        <div class="col-6">
+            <h3 class="text-dark">List of Vehicles</h3>
+        </div>
+        <div class="col-6 text-end">
+            <a class="btn btn-primary" asp-action="Upsert"><i class="fa-solid fa-plus"></i> &nbsp; Add a new Vehicle</a>
+        </div>
+    </div>
+
+    <div class="p-2 border rounded">
+        <table id="tableData" class="table table-striped table-bordered" style="width:100%">
+            <thead class="mt-2">
+                <tr class="table-info">
+                    <th class="text-center">Vehicle Name</th>
+                    <th class="text-center">Color</th>
+                    <th class="text-center">Price per Day</th>
+                    <th class="text-center">Total Rents</th>
+                    <th class="text-center">Availability</th>
+                    <th class="text-center">Offer</th>
+                    <th class="text-center">Options</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Model @item.Brand</td>
+                        <td>@item.Color</td>
+                        <td>@item.PricePerDay</td>
+                        <td>@item.TotalRents</td>
+                        <td class="fw-bold text-primary">@item.Availablility</td>
+                        <td class="fw-bold text-primary">@item.Offer</td>
+                        <td class="text-center">
+                            <a href="@Url.Action("Details", "Vehicle", new { id = item.Id })" class="btn btn-sm"><i class="fa-solid fa-circle-info"></i></a>
+                            <a href="@Url.Action("Upsert", "Vehicle", new { id = item.Id })" class="btn btn-sm"><i class="fa fa-cogs"  style="color:#2eb82d;"></i></a>
+                            <a href="@Url.Action("Delete", "Vehicle", new { id = item.Id })" class="btn btn-sm"><i class="fa fa-trash text-danger"></i></a> 
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@section Scripts{
+    <script>
+        $("#tableData").DataTable();
+    </script>
+}
+
