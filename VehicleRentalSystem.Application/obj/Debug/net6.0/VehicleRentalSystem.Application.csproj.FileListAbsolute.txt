@@ -1,0 +1,15 @@
+D:\College\CS6004NI - Application Development\Project\Vehicle Rental System\VehicleRentalSystem.Application\bin\Debug\net6.0\VehicleRentalSystem.Application.deps.json
+D:\College\CS6004NI - Application Development\Project\Vehicle Rental System\VehicleRentalSystem.Application\bin\Debug\net6.0\VehicleRentalSystem.Application.dll
+D:\College\CS6004NI - Application Development\Project\Vehicle Rental System\VehicleRentalSystem.Application\bin\Debug\net6.0\VehicleRentalSystem.Application.pdb
+D:\College\CS6004NI - Application Development\Project\Vehicle Rental System\VehicleRentalSystem.Application\bin\Debug\net6.0\VehicleRentalSystem.Domain.dll
+D:\College\CS6004NI - Application Development\Project\Vehicle Rental System\VehicleRentalSystem.Application\bin\Debug\net6.0\VehicleRentalSystem.Domain.pdb
+D:\College\CS6004NI - Application Development\Project\Vehicle Rental System\VehicleRentalSystem.Application\obj\Debug\net6.0\VehicleRentalSystem.Application.csproj.AssemblyReference.cache
+D:\College\CS6004NI - Application Development\Project\Vehicle Rental System\VehicleRentalSystem.Application\obj\Debug\net6.0\VehicleRentalSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\CS6004NI - Application Development\Project\Vehicle Rental System\VehicleRentalSystem.Application\obj\Debug\net6.0\VehicleRentalSystem.Application.AssemblyInfoInputs.cache
+D:\College\CS6004NI - Application Development\Project\Vehicle Rental System\VehicleRentalSystem.Application\obj\Debug\net6.0\VehicleRentalSystem.Application.AssemblyInfo.cs
+D:\College\CS6004NI - Application Development\Project\Vehicle Rental System\VehicleRentalSystem.Application\obj\Debug\net6.0\VehicleRentalSystem.Application.csproj.CoreCompileInputs.cache
+D:\College\CS6004NI - Application Development\Project\Vehicle Rental System\VehicleRentalSystem.Application\obj\Debug\net6.0\VehicleRentalSystem.Application.csproj.CopyComplete
+D:\College\CS6004NI - Application Development\Project\Vehicle Rental System\VehicleRentalSystem.Application\obj\Debug\net6.0\VehicleRentalSystem.Application.dll
+D:\College\CS6004NI - Application Development\Project\Vehicle Rental System\VehicleRentalSystem.Application\obj\Debug\net6.0\refint\VehicleRentalSystem.Application.dll
+D:\College\CS6004NI - Application Development\Project\Vehicle Rental System\VehicleRentalSystem.Application\obj\Debug\net6.0\VehicleRentalSystem.Application.pdb
+D:\College\CS6004NI - Application Development\Project\Vehicle Rental System\VehicleRentalSystem.Application\obj\Debug\net6.0\ref\VehicleRentalSystem.Application.dll
