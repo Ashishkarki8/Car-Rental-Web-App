@@ -3,7 +3,7 @@ Group Project Final Year
 # Introduction
 This web application aims to provide a user-friendly platform for "Hajur ko car rental" company, optimizing their car rental operations and enhancing the rental experience for their customers. Designed to manage all aspects of the rental process, from adding new cars to handling rental requests and managing customer accounts, this application offers a seamless and efficient solution for car rental management.
 
-#Features Description
+# Features Description
 * For Admin:
 1) Log in to the system securely
 2) Manage staff members, assign roles, and update passwords
