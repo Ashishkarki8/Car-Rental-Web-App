@@ -1,0 +1,409 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\VehicleRentalSystem.Presentation.bundle.scp.css",
+      "PackagePath": "staticwebassets\\VehicleRentalSystem.Presentation.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\.gitkeep",
+      "PackagePath": "staticwebassets\\images\\.gitkeep"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\brands\\.gitkeep",
+      "PackagePath": "staticwebassets\\images\\brands\\.gitkeep"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\brands\\[Brand - Jw1zAz3h] Toyota - Image.png",
+      "PackagePath": "staticwebassets\\images\\brands\\[Brand - Jw1zAz3h] Toyota - Image.png"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\brands\\[Brand - Xp9MIzKX] Rolls Royce - Image.jpg",
+      "PackagePath": "staticwebassets\\images\\brands\\[Brand - Xp9MIzKX] Rolls Royce - Image.jpg"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\brands\\[Brand - ZPgxaz6B] Rolls Royce - Image.jpg",
+      "PackagePath": "staticwebassets\\images\\brands\\[Brand - ZPgxaz6B] Rolls Royce - Image.jpg"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\brands\\[Brand - ep0Kzp1i] Lamborghini - Image.jpg",
+      "PackagePath": "staticwebassets\\images\\brands\\[Brand - ep0Kzp1i] Lamborghini - Image.jpg"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\citizenships\\.gitkeep",
+      "PackagePath": "staticwebassets\\images\\citizenships\\.gitkeep"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\citizenships\\[Citizenship - a7Ya4mkR] Rushan Pandey - Image.png",
+      "PackagePath": "staticwebassets\\images\\citizenships\\[Citizenship - a7Ya4mkR] Rushan Pandey - Image.png"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\licenses\\.gitkeep",
+      "PackagePath": "staticwebassets\\images\\licenses\\.gitkeep"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\licenses\\[License - wYHTsJKW] Rushan Pandey - Image.png",
+      "PackagePath": "staticwebassets\\images\\licenses\\[License - wYHTsJKW] Rushan Pandey - Image.png"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\system\\choice.png",
+      "PackagePath": "staticwebassets\\images\\system\\choice.png"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\system\\eye-close.png",
+      "PackagePath": "staticwebassets\\images\\system\\eye-close.png"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\system\\eye.png",
+      "PackagePath": "staticwebassets\\images\\system\\eye.png"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\system\\free.png",
+      "PackagePath": "staticwebassets\\images\\system\\free.png"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\system\\home.png",
+      "PackagePath": "staticwebassets\\images\\system\\home.png"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\system\\login-car.png",
+      "PackagePath": "staticwebassets\\images\\system\\login-car.png"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\system\\offer.png",
+      "PackagePath": "staticwebassets\\images\\system\\offer.png"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\system\\register-car.png",
+      "PackagePath": "staticwebassets\\images\\system\\register-car.png"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\system\\service.png",
+      "PackagePath": "staticwebassets\\images\\system\\service.png"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\users\\.gitkeep",
+      "PackagePath": "staticwebassets\\images\\users\\.gitkeep"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\users\\[Customer - 3DwfI6yn] Admin Admin - Image.png",
+      "PackagePath": "staticwebassets\\images\\users\\[Customer - 3DwfI6yn] Admin Admin - Image.png"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\users\\[Customer - BIKkhRCr] Test Test - Image.png",
+      "PackagePath": "staticwebassets\\images\\users\\[Customer - BIKkhRCr] Test Test - Image.png"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\users\\[Customer - TA5aLJsp] Test Test - Image.png",
+      "PackagePath": "staticwebassets\\images\\users\\[Customer - TA5aLJsp] Test Test - Image.png"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\users\\[Customer - V31J6PYa] Test Test - Image.png",
+      "PackagePath": "staticwebassets\\images\\users\\[Customer - V31J6PYa] Test Test - Image.png"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\users\\[Customer - Y9zurdog] Rushan Pandey - Image.png",
+      "PackagePath": "staticwebassets\\images\\users\\[Customer - Y9zurdog] Rushan Pandey - Image.png"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\users\\[Customer - jJWrNkLI] Admin Admin - Image.png",
+      "PackagePath": "staticwebassets\\images\\users\\[Customer - jJWrNkLI] Admin Admin - Image.png"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\users\\[Staff - EZiDBwgk] Staff Name - Image.png",
+      "PackagePath": "staticwebassets\\images\\users\\[Staff - EZiDBwgk] Staff Name - Image.png"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\users\\[Staff - i79PDgO5] Staff Staff - Image.png",
+      "PackagePath": "staticwebassets\\images\\users\\[Staff - i79PDgO5] Staff Staff - Image.png"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\users\\[Staff - oyiuQGgc] Staff Last - Image.png",
+      "PackagePath": "staticwebassets\\images\\users\\[Staff - oyiuQGgc] Staff Last - Image.png"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\vehicles\\.gitkeep",
+      "PackagePath": "staticwebassets\\images\\vehicles\\.gitkeep"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\vehicles\\[Vehicle - 0qhk5wOp] STARS - Image.jpeg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\[Vehicle - 0qhk5wOp] STARS - Image.jpeg"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\vehicles\\[Vehicle - 1WninbCz] Sports V9 - Image.jpeg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\[Vehicle - 1WninbCz] Sports V9 - Image.jpeg"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\vehicles\\[Vehicle - KiszO8Kz] Luxury Car - Image.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\[Vehicle - KiszO8Kz] Luxury Car - Image.jpg"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\vehicles\\[Vehicle - uf0jxpyz] Huracan - Image.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\[Vehicle - uf0jxpyz] Huracan - Image.jpg"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\vehicles\\[Vehicle - wGrH0nfT] RE-GX-789 - Image.jpeg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\[Vehicle - wGrH0nfT] RE-GX-789 - Image.jpeg"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\images\\vehicles\\[Vehicle - wv2FcxP0] Camry - Image.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\[Vehicle - wv2FcxP0] Camry - Image.jpg"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\College\\CS6004NI - Application Development\\Project\\Vehicle Rental System\\VehicleRentalSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.VehicleRentalSystem.Presentation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.VehicleRentalSystem.Presentation.props",
+      "PackagePath": "build\\VehicleRentalSystem.Presentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.VehicleRentalSystem.Presentation.props",
+      "PackagePath": "buildMultiTargeting\\VehicleRentalSystem.Presentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.VehicleRentalSystem.Presentation.props",
+      "PackagePath": "buildTransitive\\VehicleRentalSystem.Presentation.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

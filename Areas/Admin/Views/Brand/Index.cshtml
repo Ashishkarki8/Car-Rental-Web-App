@@ -1,0 +1,53 @@
+﻿@using VehicleRentalSystem.Domain.Entities;
+
+@model List<Brand>
+
+@{
+	ViewData["Title"] = "Brand";
+}
+
+<partial name="_Notification" />
+
+<div class="container-fluid" style=" margin-top:13vh;">
+    <div class="row mb-4">
+        <div class="col-6">
+            <h3 class="text-dark">List of Brands</h3>
+        </div>
+        <div class="col-6 text-end">
+            <a class="btn btn-primary" asp-action="Upsert"><i class="fa-solid fa-plus"></i> &nbsp; Add a new Brand</a>
+        </div>
+    </div>
+
+    <div class="p-2 border rounded">
+        <table id="tableData" class="table table-striped table-bordered" style="width:100%">
+            <thead class="mt-2">
+                <tr class="table-info">
+                    <th class="text-center">Name of Brand</th>
+                    <th class="text-center">Activation Status</th>
+                    <th class="text-center">Options</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Name</td>
+                        <td class="text-primary fw-bold">@item.IsActive</td>
+                        <td class="text-center">
+                            <a href="@Url.Action("Details", "Brand", new { id = item.Id })" class="btn  btn-sm"><i class="fa-solid fa-circle-info"></i></a>
+                                <a href="@Url.Action("Upsert", "Brand", new { id = item.Id })" class="btn  btn-sm"><i class="fa fa-cogs" style="color:#2eb82d;"></i></a>
+                            <a href="@Url.Action("Delete", "Brand", new { id = item.Id })" class="btn btn-sm"><i class="fa fa-trash text-danger"></i></a> 
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@section Scripts{
+    <script>
+        $("#tableData").DataTable();
+    </script>
+}
+
