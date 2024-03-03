@@ -1,0 +1,12 @@
+D:\College\CS6004NI - Application Development\Project\Vehicle Rental System\VehicleRentalSystem.Core\bin\Debug\net6.0\VehicleRentalSystem.Domain.deps.json
+D:\College\CS6004NI - Application Development\Project\Vehicle Rental System\VehicleRentalSystem.Core\bin\Debug\net6.0\VehicleRentalSystem.Domain.dll
+D:\College\CS6004NI - Application Development\Project\Vehicle Rental System\VehicleRentalSystem.Core\bin\Debug\net6.0\VehicleRentalSystem.Domain.pdb
+D:\College\CS6004NI - Application Development\Project\Vehicle Rental System\VehicleRentalSystem.Core\obj\Debug\net6.0\VehicleRentalSystem.Domain.csproj.AssemblyReference.cache
+D:\College\CS6004NI - Application Development\Project\Vehicle Rental System\VehicleRentalSystem.Core\obj\Debug\net6.0\VehicleRentalSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\CS6004NI - Application Development\Project\Vehicle Rental System\VehicleRentalSystem.Core\obj\Debug\net6.0\VehicleRentalSystem.Domain.AssemblyInfoInputs.cache
+D:\College\CS6004NI - Application Development\Project\Vehicle Rental System\VehicleRentalSystem.Core\obj\Debug\net6.0\VehicleRentalSystem.Domain.AssemblyInfo.cs
+D:\College\CS6004NI - Application Development\Project\Vehicle Rental System\VehicleRentalSystem.Core\obj\Debug\net6.0\VehicleRentalSystem.Domain.csproj.CoreCompileInputs.cache
+D:\College\CS6004NI - Application Development\Project\Vehicle Rental System\VehicleRentalSystem.Core\obj\Debug\net6.0\VehicleRentalSystem.Domain.dll
+D:\College\CS6004NI - Application Development\Project\Vehicle Rental System\VehicleRentalSystem.Core\obj\Debug\net6.0\refint\VehicleRentalSystem.Domain.dll
+D:\College\CS6004NI - Application Development\Project\Vehicle Rental System\VehicleRentalSystem.Core\obj\Debug\net6.0\VehicleRentalSystem.Domain.pdb
+D:\College\CS6004NI - Application Development\Project\Vehicle Rental System\VehicleRentalSystem.Core\obj\Debug\net6.0\ref\VehicleRentalSystem.Domain.dll
